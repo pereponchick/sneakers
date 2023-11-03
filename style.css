@@ -36,6 +36,7 @@ p {
 a {
   font-family: "Anonymous Pro", sans-serif;
   font-size: 14px;
+  text-decoration: none;
 }
 
 img {
@@ -154,12 +155,7 @@ svg {
   display: flex;
   width: 80%;
   height: 23px;
-  overflow: hidden;
   justify-content: space-between;
   align-items: center;
 }
 
-.footer_logo {
-  width: 350px;
-  position: relative;
-}
